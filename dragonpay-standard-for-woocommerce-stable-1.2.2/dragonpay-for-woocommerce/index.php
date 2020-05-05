@@ -1,12 +1,11 @@
 <?php
 /*
 	Plugin Name: Dragonpay.ph Standard For WooCommerce
-	Plugin URI: https://siteshop.ph/dragonpay-plugin-for-woocommerce
+	Plugin URI: https://github.com/siteshop-ph/dragonpay-standard-for-woocommerce/
 	Description: Dragonpay Standard for accepting Over-The-Counter Cash Payments, ATM or Online Banking in the Philippines. Because credit card and banking penetration is too low ; Dragonpay makes accessible payment options to the masses! <strong>This plugin require 1/ Webhosting: VPS or dedicated server are OK (IMPORTANT: shared server or WP managed service are NOT SUPPORTED)  2/ a Dragonpay Account to order at </strong> ; <a href="https://dragonpay.ph" target="_blank">dragonpay.ph</a>
 	Version: 1.2.2
-	Author: SiteShop.ph
+	Author: Serge Frankin SiteShop.ph (Netpublica.com Corp)
 	Author URI: https://siteshop.ph/
- 	License URI: https://siteshop.ph/eula
 */ 
 
 
